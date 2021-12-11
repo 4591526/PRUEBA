@@ -1,0 +1,102 @@
+iso-639-3	name	value	description	latitude	longitude	family
+agr	Aguaruna	0	no	-5.30044	-77.92179	Chicham
+apu	Apurinã	0	no	-8.21692	-66.77141	Arawakan
+arl	Arabela	1	yes	-1.96126	-75.06117	Zaparoan
+arh	Arhuaco	0	no	10.70184	-73.63629	Chibchan
+kwi	Awa-Cuaiquer	0	no	1.216525	-78.340135	Barbacoan
+quy	Ayacucho Quechua	0	no	-13.84714	-74.32246	Quechuan
+ayo	Ayoreo	1	yes	-19.220055	-60.217495	Zamucoan
+brg	Baure	1	yes	-13.12775	-64.18381	Arawakan
+boa	Bora	1	yes	-2.91467	-68.90929	Boran
+bor	Bororo	1	yes	-16.60295	-55.20043	Bororoan
+qvc	Cajamarca Quechua	0	no	-7.09314	-78.32141	Quechuan
+caw	Callawalla	0	no	-15.88451	-68.10176	Mixed Language
+ram	Canela	1	yes	-6.10712	-45.1299	Nuclear-Macro-Je
+cav	Cavineña	0	no	-13.35441	-66.62773	Pano-Tacanan
+ayr	Central Aymara	0	no	-17.0	-68.5	Aymaran
+ceg	Chamacoco	0	no	-20.58988	-58.20047	Zamucoan
+cap	Chipaya	0	no	-18.73951	-67.89633	Uru-Chipaya
+cht	Cholón	1	yes	-9.23129	-75.96211	Hibito-Cholon
+cod	Cocama-Cocamilla	0	no	-4.5	-74.0	Tupian
+con	Cofán	0	no	0.276675	-77.064305	Cofan
+cub	Cubeo	1	yes	1.32382	-70.193935	Tucanoan
+quz	Cusco Quechua	0	no	-14.08527	-71.76625	Quechuan
+des	Desano	1	yes	0.58157	-69.495545	Tucanoan
+kwa	Dâw	?	Not known	-0.1177	-67.29341	Nadahup
+eme	Emerillon	0	no	3.23694	-52.36986	Tupian
+ese	Ese Ejja	0	no	-11.72683	-67.51496	Pano-Tacanan
+gvo	Gavião Do Jiparaná	0	no	-10.7235	-61.67521	Tupian
+hix	Hixkaryána	0	no	-0.16265	-58.80153	Cariban
+qub	Huallaga Huánuco Quechua	0	no	-9.57135	-75.59401	Quechuan
+qux	Huangascar-Topara-Yauyos Quechua	0	no	-13.11443	-75.76589	Quechuan
+qwh	Huaylas Ancash Quechua	0	no	-9.38709	-77.77681	Quechuan
+jup	Hupdë	1	yes	0.58622	-69.835915	Nadahup
+qvi	Imbabura Highland Quichua	0	no	0.31776	-78.37286	Quechuan
+inb	Inga	0	no	1.00313	-76.86062	Quechuan
+iqu	Iquito	0	no	-3.31233	-73.97046	Zaparoan
+ito	Itonama	1	yes	-12.80431	-64.35748	Itonama
+jaa	Jamamadí	0	no	-7.62223	-66.56619	Arawan
+jqr	Jaqaru	0	no	-12.88233	-75.89576	Aymaran
+qxw	Jauja Wanca Quechua	0	no	-11.67473	-75.2786	Quechuan
+kbc	Kadiwéu	1	yes	-19.72224	-57.58202	Guaicuruan
+kay	Kamayurá	?	Not known	-12.26606	-53.46514	Tupian
+kxo	Kanoê	1	yes	-12.17894	-64.58121	Kanoe
+ktn	Karitiâna	0	no	-9.37937	-64.15219	Tupian
+arr	Karo (Brazil)	1	yes	-10.33424	-61.56908	Tupian
+xwa	Kwaza	1	yes	-11.6666666667	-61.1833333333	Kwaza
+lkd	Lakondê	1	yes	-13.2	-60.5	Nambiquaran
+lao	Lao	1	yes	16.07262	104.56848	Tai-Kadai
+lec	Leco	0	no	-15.00921	-67.88181	Leko
+mca	Maca	0	no	-25.01186	-57.36935	Matacoan
+wmd	Mamaindé	1	yes	-12.986439	-60.101072	Nambiquaran
+arn	Mapudungun	0	no	-38.73917	-71.27701	Araucanian
+mcf	Matsés	0	no	-5.739145	-72.628105	Pano-Tacanan
+omc	Mochica	1	yes	-8.01666666667	-79.0	Mochica
+moc	Mocoví	1	yes	-28.09699	-60.41448	Guaicuruan
+cas	Mosetén	0	no	-14.64448	-67.83756	Moseten-Chimane
+mzp	Movima	1	yes	-13.81152	-65.63482	Movima
+myr	Muniche	1	yes	-5.80546	-76.28113	Muniche
+yrl	Nhengatu	?	Not known	1.04502666667	-66.9645533333	Tupian
+shb	Ninam	1	yes	4.038935	-62.780115	Yanomamic
+qvn	North Junín Quechua	0	no	-11.21321	-75.81275	Quechuan
+emp	Northern Emberá	0	no	7.12761	-77.57396	Chocoan
+qvp	Pacaraos Quechua	0	no	-11.14278	-76.73046	Quechuan
+pbh	Panare	1	yes	6.95035	-65.84825	Cariban
+pap	Papiamento	0	no	12.48485	-69.93988	Indo-European
+plg	Pilagá	1	yes	-25.00585	-60.15372	Guaicuruan
+pue	Puelche	0	no	-36.63757	-62.94127	Puelche
+pui	Puinave	1	yes	3.92974	-67.6886	Puinave
+pbb	Páez	0	no	2.61516	-76.31254	Paez
+rey	Reyesano	0	no	-14.83332	-67.08332	Pano-Tacanan
+rus	Russian	0	no	59.0	50.0	Indo-European
+sae	Sabanê	1	yes	-12.98572	-60.33498	Nambiquaran
+skf	Sakirabia	0	no	-13.05395	-62.09274	Tupian
+qxl	Salasaca Highland Quichua	0	no	-1.35447	-78.39531	Quechuan
+qvs	San Martín Quechua	0	no	-6.9582	-76.6608	Quechuan
+qus	Santiago del Estero Quichua	0	no	-27.82096	-63.24657	Quechuan
+ona	Selk'nam	0	no	-54.0	-68.5	Chonan
+shp	Shipibo-Conibo	0	no	-7.17105	-74.82192	Pano-Tacanan
+jiv	Shuar	0	no	-3.45136	-78.18923	Chicham
+snn	Siona-Tetete	1	yes	0.31733	-76.02367	Tucanoan
+quh	South Bolivian Quechua	0	no	-20.920095	-66.333145	Quechuan
+ayc	Southern Aymara	0	no	-17.14171	-70.34424	Aymaran
+qup	Southern Pastaza Quechua	0	no	-3.32733	-76.52697	Quechuan
+spa	Spanish	0	no	40.4414175	-1.11788	Indo-European
+tpj	Tapieté	0	no	-21.4168866667	-62.68397	Tupian
+tae	Tariana	1	yes	0.440205	-68.904165	Arawakan
+teh	Tehuelche	0	no	-47.57963	-68.32346	Chonan
+quw	Tena Lowland Quichua	0	no	-0.76271	-77.54039	Quechuan
+tob	Toba	1	yes	-24.40253	-60.4472866667	Guaicuruan
+tri	Trió	0	no	2.53616	-55.759935	Cariban
+tpy	Trumai	0	no	-11.81195	-53.5717	Trumai
+cof	Tsafiki	1	yes	-0.21181	-79.23468	Barbacoan
+tur	Turkish	0	no	39.866667	32.866667	Turkic
+ura	Urarina	0	no	-4.44006	-75.42107	Urarina
+ure	Uru	0	no	-16.72547	-68.97119	Uru-Chipaya
+wba	Warao	?	Not known	7.50850666667	-59.3527633333	Warao
+pav	Wari	0	no	-10.69948	-64.56152	Chapacuran
+mtp	Wichí Lhamtés Nocten	1	yes	-21.987995	-63.59711	Matacoan
+yaa	Yaminahua	0	no	-9.88459666667	-71.5964333333	Pano-Tacanan
+ame	Yanesha'	1	yes	-10.54539	-75.31497	Arawakan
+yuq	Yuqui	0	no	-16.78752	-64.94382	Tupian
+yuz	Yuracaré	0	no	-16.74788	-65.12241	Yurakare
